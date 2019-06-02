@@ -17,8 +17,8 @@ class App extends Component {
  
 
     render() {
-    	
-      return console.log(this.state)
+    	     console.log(this.state)
+      return 
     }
   }
 export default App;
