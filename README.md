@@ -1,5 +1,5 @@
 hello...
-this is a react.js forcheacht componentDidMount() problem..
+this is a react.js forcheacht componentDidMount() method problem..
 
 plz help me for solved this problem..
 
